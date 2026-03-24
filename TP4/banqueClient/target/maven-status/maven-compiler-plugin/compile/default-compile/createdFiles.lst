@@ -1,0 +1,14 @@
+com\example\banque\client\IBanque.class
+com\example\banque\client\RetirerResponse.class
+com\example\banque\client\ConsulterSoldeResponse.class
+com\example\banque\client\ObjectFactory.class
+com\example\banque\client\Retirer.class
+com\example\banque\client\ConsulterSolde.class
+com\example\banque\client\DeposerResponse.class
+com\example\banque\client\BanqueImpService.class
+com\example\banque\client\GetCompte.class
+com\example\banque\client\GetCompteResponse.class
+com\example\banque\client\Deposer.class
+org\example\Main.class
+com\example\banque\client\Compte.class
+com\example\banque\client\package-info.class

@@ -1,0 +1,13 @@
+com\example\client\AddResponse.class
+com\example\client\ICalculatrice.class
+com\example\client\SubtractResponse.class
+com\example\client\DivideResponse.class
+com\example\client\MultiplyResponse.class
+com\example\client\Divide.class
+org\example\Main.class
+com\example\client\Subtract.class
+com\example\client\package-info.class
+com\example\client\ObjectFactory.class
+com\example\client\CalculatriceImpService.class
+com\example\client\Add.class
+com\example\client\Multiply.class

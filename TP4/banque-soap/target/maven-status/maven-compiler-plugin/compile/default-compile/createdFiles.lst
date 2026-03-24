@@ -1,0 +1,4 @@
+org\example\ws\IBanque.class
+org\example\ws\ServeurBanque.class
+org\example\ws\Compte.class
+org\example\ws\BanqueImp.class
