@@ -1,0 +1,6 @@
+fastapi>=0.115.0
+uvicorn[standard]
+scikit-learn>=1.5.0
+pandas>=2.0.0
+streamlit>=1.28.0
+requests>=2.31.0

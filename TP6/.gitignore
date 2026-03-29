@@ -1,0 +1,21 @@
+# Environnement virtuel
+venv/
+.venv/
+env/
+
+# Python cache (fichiers compilés)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Modèles et données (fichiers lourds ou générés)
+*.pkl
+*.csv
+*.xlsx
+
+# Configuration VS Code
+.vscode/
+
+# Divers
+.DS_Store
+*.log
